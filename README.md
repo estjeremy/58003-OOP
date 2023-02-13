@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=estjeremy" alt="estjeremy" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/estjeremy" target="blank"><img src="https://img.shields.io/twitter/follow/estjeremy?logo=twitter&style=for-the-badge" alt="estjeremy" /></a> </p>
+<p align="left"> <a href="https://twitter.com/estjeremyyy" target="blank"><img src="https://img.shields.io/twitter/follow/estjeremy?logo=twitter&style=for-the-badge" alt="estjeremyyy" /></a> </p>
 
 - 🌱 I’m currently learning **Python.**
 
